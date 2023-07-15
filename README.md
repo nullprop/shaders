@@ -6,3 +6,4 @@ Shader projects for [SHADERed](https://github.com/dfranx/SHADERed).
 
 ![neon_pulse](/render/neon_pulse.gif)
 ![flame](/render/flame.gif)
+![sun](/render/sun.gif)
